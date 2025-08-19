@@ -5,6 +5,11 @@ It configures an HTTP reverse proxy (Apache HTTPD) that routes incoming traffic 
 
 ---
 
+## 🏗️ Architecture
+![Architecture](architecture.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - Apache HTTPD  
